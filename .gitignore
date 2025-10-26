@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log
+.DS_Store
+/tmp/
+/test-screenshot.png
+**/node_modules
+**/npm-debug.log
+**/.local-chromium

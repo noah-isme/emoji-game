@@ -1,0 +1,22 @@
+{
+  "name": "emoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "homepage": "https://your-username.github.io/emoji",
+  "scripts": {
+    "start": "npx http-server . -p 8000 --cors",
+    "predeploy": "echo 'predeploy - no build step'",
+    "deploy": "gh-pages -d .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.26.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
