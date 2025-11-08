@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
-  "homepage": "https://your-username.github.io/emoji",
+  "homepage": "https://noah-isme.github.io/emoji-game",
   "scripts": {
     "start": "npx http-server . -p 8000 --cors",
     "predeploy": "echo 'predeploy - no build step'",

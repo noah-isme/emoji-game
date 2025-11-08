@@ -6,7 +6,7 @@ export default class Preloader extends Phaser.Scene
 
         this.loadText;
     }
-
+2
     preload ()
     {
     // Ensure we load assets from the local assets folder explicitly
